@@ -12,7 +12,7 @@ You can find my [CV](https://github.com/PeijieXu/PeijieXu.github.io/edit/main/in
 ### Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control
 _Undergraduate Thesis Project_  
 _Supervisor: Prof. Hui Li_  
-_Lab: [State Key Laboratory of PES](sklpe.cqu.edu.cn)_
+_Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
   
 * Applied DRL to minimize the Average Voltage Deviation (AVD) of the offshore wind farm; the work was awarded the outstanding undergraduate thesis of CQU (**top 1.5%** in the university)
 * Built reactive power-voltage optimization model and formulated it as a Markov Decision Process; established the agents’ actor & critic’s Deep Neural Network and the interactive environment of RL; trained the agents with adapted Deep Deterministic Policy Gradient (DDPG) and Multi-Agent DDPG 
