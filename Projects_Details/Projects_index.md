@@ -4,11 +4,12 @@ title: Peijie Xu
 description: Project Detail
 ---
 [Home](https://peijiexu.github.io/) / Project Detail  
-
+  
+## Research Projects
 <table border="0" width="750">
 <tr>
   <td>
-  <font size="4"> <b>Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control</b> </font>
+  <font size="4"> <b>Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control</b> </font><p></p>
 <ul>
   <li>Applied Multi-Agent DRL to minimize the Average Voltage Deviation of the offshore wind farm</li>
   <li>The work was awarded the outstanding undergraduate thesis of CQU (top 1.5 % in the university)</li>
@@ -17,35 +18,58 @@ description: Project Detail
  
   </td>
   <td>
-  <img src="pic/1_3.png" width="400" >
+  <img src="pic/1_3.png" width="350" >
   
   </td>
 </tr>
 <tr>
   <td>
-<font size="4"> <b>Wind Farm Multi-Agent Consensus Control</b> </font>
+<font size="4"> <b>Wind Farm Multi-Agent Consensus Control</b> </font><p></p>
 
 <ul>
   <li>Investigated control methods for a distributed wind farm system; designed a distributed consensus algorithm to regulate output power of wind turbines</li>
 </ul>
   </td>
-  <td><img src="pic/1_3.png" width="400" >
+  <td><img src="pic/1_3.png" width="350" >
   </td>
   
 </tr>
+
 <tr>
   <td>
-<font size="4"> <b>Electrical Compensation Technology for Visible Light Communication (VLC)</b></font>
+   <font size="4"> <b>Electrical Compensation Technology for Visible Light Communication (VLC)</b></font><p></p>
 
-<ul>
+  <ul>
   <li>Investigated into the compensation technology for the electrical index deterioration of VLC</li>
-</ul>
+  </ul>
   </td>
-  <td><img src="pic/1_3.png" width="400" >
+  <td><img src="pic/1_3.png" width="350" >
   </td>
   
 </tr>
 </table>
 
+## Course & Side Projects
+<table border="0" width="750">
+<tr>
+  <font size="4"> <b>Electrical Compensation Technology for Visible Light Communication (VLC)</b></font><p></p>
+  <ul>
+  <li>Investigated into the compensation technology for the electrical index deterioration of VLC</li>
+  </ul>
+</tr>
 
+<tr>
+  <font size="4"> <b>Electrical Compensation Technology for Visible Light Communication (VLC)</b></font><p></p>
+  <ul>
+  <li>Investigated into the compensation technology for the electrical index deterioration of VLC</li>
+  </ul>
+</tr>
+<tr>
+  <font size="4"> <b>Electrical Compensation Technology for Visible Light Communication (VLC)</b></font><p></p>
+  <ul>
+  <li>Investigated into the compensation technology for the electrical index deterioration of VLC</li>
+  </ul>
+</tr>
+
+</table>
 
