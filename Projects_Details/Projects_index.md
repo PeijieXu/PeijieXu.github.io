@@ -4,4 +4,4 @@ title: Peijie Xu
 description: Project Detail
 ---
 ## Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control
-![1_1](pic/1_1.svg)
+![1_1](pic/1_3.png)
