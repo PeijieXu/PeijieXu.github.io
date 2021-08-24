@@ -14,18 +14,18 @@ I graduated from Chongqing University (CQU), where I got a bachelor degree in El
   
 My research focous on robot's motion planning and grasping. 
   
-You can find my [CV](_posts/2021-8-24-project-1.md) here.
+You can find my **[CV](_posts/2021-8-24-project-1.md)** here.
   
 
 ## Research Projects
 
 #### Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control 
 _Undergraduate Thesis Project_ | _Supervisor: Prof. Hui Li_  
-_Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
-[Click for more ...](Projects_Details/1_underguaduate_thesis.md)
+_Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_  
 
 * Applied DRL to minimize the Average Voltage Deviation (AVD) of the offshore wind farm; the work was awarded the outstanding undergraduate thesis of CQU (**top 1.5%** in the university)
 * Decreased AVD to 5.4×10^-4 p.u. and 3.6×10^-4 p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33%
+* **[Click for detail ...](Projects_Details/1_underguaduate_thesis.md)**
 
 #### Wind Farm Multi-Agent Consensus Control
 _Research Assistant_ | _Supervisor: Prof. Minyou Chen_  
