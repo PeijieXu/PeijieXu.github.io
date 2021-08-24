@@ -14,32 +14,30 @@ I graduated from Chongqing University (CQU), where I got a bachelor degree in El
   
 My research focous on robot's motion planning and grasping. 
   
-You can find my [CV](https://github.com/PeijieXu/PeijieXu.github.io/edit/main/index.md) here.
+You can find my [CV](https://github.com/PeijieXu/PeijieXu.github.io/blob/main/Projects.md) here.
   
 
 ## Research Projects
 
-**Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control**  
+#### Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control 
 _Undergraduate Thesis Project_ | _Supervisor: Prof. Hui Li_  
 _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 
 * Applied DRL to minimize the Average Voltage Deviation (AVD) of the offshore wind farm; the work was awarded the outstanding undergraduate thesis of CQU (**top 1.5%** in the university)
-* Decreased AVD to 5.4×10^-4^ p.u. and 3.6×10^-4^ p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33%
+* Decreased AVD to 5.4×10<sup>-4</sup> p.u. and 3.6×10<sup>-4</sup> p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33%
 
-**Wind Farm Multi-Agent Consensus Control**  
+#### Wind Farm Multi-Agent Consensus Control
 _Research Assistant_ | _Supervisor: Prof. Minyou Chen_  
 
-* Investigated control methods for a distributed wind farm system
 * Designed and simulated a distributed consensus algorithm to control output power regulation of 10 doubly-fed induction generators-based wind turbines with on-site battery energy storage systems
 
-**Electrical Compensation Technology for Visible Light Communication (VLC)**  
+#### Electrical Compensation Technology for Visible Light Communication (VLC)
 _Leader_ | _Supervisor: Prof. Prof. Quanming, Luo_  
 
-* Investigated into the compensation technology for the electrical index deterioration of VLC
-* Extended communication distance of VLC system whose LED worked as a scattering light source by 200%
+* Investigated into the compensation technology for the electrical index deterioration of VLC; extended communication distance of VLC system whose LED worked as a scattering light source by 200%
 
 ## Publication
 
-**Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method**  
+#### Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method
 Hongtao Tan, Hui Li, **Peijie Xu**, Renkuan Liu, Xiao Wang, Zhiting Zhou, Jie Zheng  
 International Conference on Power Engineering 2021  (accepted)
