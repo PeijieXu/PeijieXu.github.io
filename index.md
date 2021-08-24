@@ -37,6 +37,6 @@ My research focuses on robot's motion planning and grasping.
   
 # Publication
 
-<font size=4> <b>Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method</b></font>  
+<font size=4> <b>Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method</b>(accepted)</font>  
 &emsp;Hongtao Tan, Hui Li, **Peijie Xu**, Renkuan Liu, Xiao Wang, Zhiting Zhou, Jie Zheng  
-&emsp;International Conference on Power Engineering 2021  (accepted)
+&emsp;International Conference on Power Engineering 2021
