@@ -1,7 +1,9 @@
 ---
 theme: jekyll-theme-cayman
-title: DRL-Guided Offshore Wind Farm Voltage Control
-description: Undergraduate Thesis
+title: Project Detail
+description: 
 ---
-## 1
-### hahah
+## Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control
+_Undergraduate Thesis Project_   
+_Supervisor: Prof. Hui Li_  
+_Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
