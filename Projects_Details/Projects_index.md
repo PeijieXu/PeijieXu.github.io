@@ -17,7 +17,7 @@ description: Project Detail
  
   </td>
   <td>
-  <img src="pic/1_3.png" width="200" >
+  <img src="pic/1_3.png" width="400" >
   
   </td>
 </tr>
@@ -29,7 +29,7 @@ description: Project Detail
   <li>Investigated control methods for a distributed wind farm system; designed a distributed consensus algorithm to regulate output power of wind turbines</li>
 </ul>
   </td>
-  <td><img src="pic/1_3.png" width="200" >
+  <td><img src="pic/1_3.png" width="400" >
   </td>
   
 </tr>
@@ -41,7 +41,7 @@ description: Project Detail
   <li>Investigated into the compensation technology for the electrical index deterioration of VLC</li>
 </ul>
   </td>
-  <td><img src="pic/1_3.png" width="200" >
+  <td><img src="pic/1_3.png" width="400" >
   </td>
   
 </tr>
