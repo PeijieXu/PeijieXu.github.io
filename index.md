@@ -39,6 +39,6 @@ _Leader_ | _Supervisor: Prof. Prof. Quanming, Luo_
 
 # Publication
 
-<font size=5> <b>Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method</b></font> 
+<font size=5> <b>Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method</b></font>  
 Hongtao Tan, Hui Li, **Peijie Xu**, Renkuan Liu, Xiao Wang, Zhiting Zhou, Jie Zheng  
 International Conference on Power Engineering 2021  (accepted)
