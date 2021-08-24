@@ -19,7 +19,7 @@ You can find my **[CV](_posts/2021-8-24-project-1.md)** here.
 
 # Research Projects
 
-## Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control 
+<font size=35> Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control </font>  
 _Undergraduate Thesis Project_ | _Supervisor: Prof. Hui Li_  
 _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_  
 
