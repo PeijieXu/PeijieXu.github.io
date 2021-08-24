@@ -10,13 +10,13 @@ var _hmt = _hmt || [];
 
 # Hi There ~
 
-I graduated from Chongqing University (CQU), where I got a bachelor degree in Electrical Engineering. I am currently working in the Institute of Smart Engineering, CQU.
+I graduated from Chongqing University (CQU), where I got a bachelor degree in Electrical Engineering. I currently work in the Institute of Smart Engineering, CQU.
   
 My research focuses on robot's motion planning and grasping. 
 
 **Quick Link:**
 * <a href="Projects_Details/1_underguaduate_thesis.html"> <font size=4> <b>My CV</b> (pdf)</font> </a>
-* <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b> (detailed)</font> </a>
+* <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a>
   
 
 # Research Projects
@@ -25,7 +25,7 @@ My research focuses on robot's motion planning and grasping.
 
 * Applied Multi-Agent DRL to minimize the Average Voltage Deviation of the offshore wind farm
 * The work was awarded the outstanding undergraduate thesis of CQU (top 1.5 % in the university)
-* **[Detail ...](Projects_Details/1_underguaduate_thesis.md)**
+* [Detail ...](Projects_Details/1_underguaduate_thesis.md)
   
 <font size=4> <b>Wind Farm Multi-Agent Consensus Control</b> </font>  
 
@@ -40,3 +40,4 @@ My research focuses on robot's motion planning and grasping.
 <font size=4> <b>Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method</b>(accepted)</font>  
 &emsp;Hongtao Tan, Hui Li, **Peijie Xu**, Renkuan Liu, Xiao Wang, Zhiting Zhou, Jie Zheng  
 &emsp;International Conference on Power Engineering 2021
+
