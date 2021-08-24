@@ -24,7 +24,7 @@ _Undergraduate Thesis Project_ | _Supervisor: Prof. Hui Li_
 _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 
 * Applied DRL to minimize the Average Voltage Deviation (AVD) of the offshore wind farm; the work was awarded the outstanding undergraduate thesis of CQU (**top 1.5%** in the university)
-* Decreased AVD to 5.4×10<sup>-4</sup> p.u. and 3.6×10<sup>-4</sup> p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33%
+* Decreased AVD to 5.4×10$^-4$ p.u. and 3.6×10$^{-4}$ p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33%
 
 #### Wind Farm Multi-Agent Consensus Control
 _Research Assistant_ | _Supervisor: Prof. Minyou Chen_  
