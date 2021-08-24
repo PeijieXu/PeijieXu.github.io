@@ -13,17 +13,18 @@ var _hmt = _hmt || [];
 I graduated from Chongqing University (CQU), where I got a bachelor degree in Electrical Engineering. I am currently working in the Institute of Smart Engineering, CQU.
   
 My research focous on robot's motion planning and grasping. 
+
+**Quick Link:**
   
-<a href="Projects_Details/1_underguaduate_thesis.html"> <font size=4> <b>My CV</b> </font> </a>
-  
-<a href="Projects_Details/Projects_index.html"> <font size=4> <b>The detail of my projects with picture</b> </font> </a>
+* <a href="Projects_Details/1_underguaduate_thesis.html"> <font size=4> <b>My CV</b> </font> </a>
+* <a href="Projects_Details/Projects_index.html"> <font size=4> <b>The detail of my projects with picture</b> </font> </a>
   
 
 # Research Projects
 
 <font size=5> <b>Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control</b> </font>  
 _Undergraduate Thesis Project_ | _Supervisor: Prof. Hui Li_  
-_Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_  
+_Lab: State Key Laboratory of [PES](http://sklpe.cqu.edu.cn/)_  
 
 * Applied DRL to minimize the Average Voltage Deviation (AVD) of the offshore wind farm; the work was awarded the outstanding undergraduate thesis of CQU (**top 1.5%** in the university)
 * Decreased AVD to 5.4×10<sup>-4</sup> p.u. and 3.6×10<sup>-4</sup> p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33 %
