@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+## Hi There ~
 
-You can use the [editor on GitHub](https://github.com/PeijieXu/PeijieXu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I graduated from Chongqing University (CQU), where I got a bachelor degree in Electrical Engineering. I am currently working in the Institute of Smart Engineering, CQU.
+  
+My research focous on robot's motion planning and grasping. 
+  
+You can find my [CV](https://github.com/PeijieXu/PeijieXu.github.io/edit/main/index.md) here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Projects
 
-### Markdown
+### Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control
+_Undergraduate Thesis Project_
+_Supervisor: Prof. Hui Li_
+_Lab: [State Key Laboratory of PES](sklpe.cqu.edu.cn)_
+  
+* Applied DRL to minimize the Average Voltage Deviation (AVD) of the offshore wind farm; the work was awarded the outstanding undergraduate thesis of CQU (top 1.5% in the university)
+* Built reactive power-voltage optimization model and formulated it as a Markov Decision Process; established the agents’ actor & critic’s Deep Neural Network and the interactive environment of RL; trained the agents with adapted Deep Deterministic Policy Gradient (DDPG) and Multi-Agent DDPG 
+* Decreased AVD by 11.48% after adding the forward difference of active power into observation; decreased AVD to 5.4×10-4 p.u. and 3.6×10-4 p.u. using policy trained by DDPG and Multi-Agent DDPG respectively, which means the proposed multi-agent-based method improves the control performance by 33.33%
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +35,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PeijieXu/PeijieXu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
