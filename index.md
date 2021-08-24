@@ -14,9 +14,9 @@ I graduated from Chongqing University (CQU), where I got a bachelor degree in El
   
 My research focous on robot's motion planning and grasping. 
   
-<a href="Projects_Details/1_underguaduate_thesis.html"> <font size=10> <b>My CV/</b> </font> </a>
+<a href="Projects_Details/1_underguaduate_thesis.html"> <font size=4> <b>My CV</b> </font> </a>
   
-<a href="Projects_Details/Projects_index.html"> <font size=10> <b>The detail of my projects with picture</b> </font> </a>
+<a href="Projects_Details/Projects_index.html"> <font size=4> <b>The detail of my projects with picture</b> </font> </a>
   
 
 # Research Projects
