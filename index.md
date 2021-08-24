@@ -14,7 +14,7 @@ I graduated from Chongqing University (CQU), where I got a bachelor degree in El
   
 My research focous on robot's motion planning and grasping. 
   
-You can find my [CV](https://github.com/PeijieXu/PeijieXu.github.io/blob/main/Projects.md) here.
+You can find my [CV](_posts/2021-8-24-project-1.md) here.
   
 
 ## Research Projects
