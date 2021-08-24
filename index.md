@@ -16,7 +16,7 @@ My research focuses on robot's motion planning and grasping.
 
 **Quick Link:**
 * <a href="Projects_Details/1_underguaduate_thesis.html"> <font size=4> <b>My CV</b> (pdf)</font> </a>
-* <a href="Projects_Details/Projects_index.html"> <font size=4> <b>The detail of my projects</b> (with picture)</font> </a>
+* <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b> (detailed)</font> </a>
   
 
 # Research Projects
@@ -25,19 +25,18 @@ My research focuses on robot's motion planning and grasping.
 _Undergraduate Thesis Project_ | _Supervisor: Prof. Hui Li_  
 _Lab: State Key Laboratory of [PES](http://sklpe.cqu.edu.cn/)_  
 
-* Applied DRL to minimize the Average Voltage Deviation (AVD) of the offshore wind farm; the work was awarded the outstanding undergraduate thesis of CQU (**top 1.5%** in the university)
-* Decreased AVD to 5.4×10<sup>-4</sup> p.u. and 3.6×10<sup>-4</sup> p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33 %
-* **[Click for detail ...](Projects_Details/1_underguaduate_thesis.md)**
+* Applied Multi-Agent DRL to minimize the Average Voltage Deviation (AVD) of the offshore wind farm; the work was awarded the outstanding undergraduate thesis of CQU (**top 1.5%** in the university)
+* **[Detail ...](Projects_Details/1_underguaduate_thesis.md)**
 
 <font size=5> <b>Wind Farm Multi-Agent Consensus Control</b> </font>  
 _Research Assistant_ | _Supervisor: Prof. Minyou Chen_  
 
-* Designed and simulated a distributed consensus algorithm to control output power regulation of 10 doubly-fed induction generators-based wind turbines with on-site battery energy storage systems
+* Investigated control methods for a distributed wind farm system; designed and simulated a distributed consensus algorithm to regulate output power of wind turbines
 
 <font size=5> <b>Electrical Compensation Technology for Visible Light Communication (VLC)</b></font>  
 _Leader_ | _Supervisor: Prof. Prof. Quanming, Luo_  
 
-* Investigated into the compensation technology for the electrical index deterioration of VLC; extended communication distance of VLC system whose LED worked as a scattering light source by 200%
+* Investigated into the compensation technology for the electrical index deterioration of VLC
 
 # Publication
 
