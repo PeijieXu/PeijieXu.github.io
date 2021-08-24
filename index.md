@@ -16,7 +16,7 @@ My research focous on robot's motion planning and grasping.
 
 **Quick Link:**
   
-* <a href="Projects_Details/1_underguaduate_thesis.html"> <font size=4> <b>My CV</b> </font> </a>
+* <a href="Projects_Details/1_underguaduate_thesis.html"> <font size=4> <b>My CV</b> (pdf)</font> </a>
 * <a href="Projects_Details/Projects_index.html"> <font size=4> <b>The detail of my projects with picture</b> </font> </a>
   
 
