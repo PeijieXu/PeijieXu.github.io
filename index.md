@@ -10,7 +10,7 @@ var _hmt = _hmt || [];
 
 # Hi There ~
 
-I graduated from Chongqing University (CQU), where I got a bachelor degree in Electrical Engineering. I currently work in the Institute of Smart Engineering, CQU.
+I received a bachelor degree in Electrical Engineering from Chongqing University (CQU). I currently work in the Institute of Smart Engineering, CQU.
   
 My research focuses on robot's motion planning and grasping. 
 
@@ -37,7 +37,7 @@ My research focuses on robot's motion planning and grasping.
   
 # Publication
 
-<font size=4> <b>Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method</b>(accepted)</font>  
+<font size=4> <b>Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method</b></font>  
 &emsp;Hongtao Tan, Hui Li, **Peijie Xu**, Renkuan Liu, Xiao Wang, Zhiting Zhou, Jie Zheng  
 &emsp;International Conference on Power Engineering 2021
 
