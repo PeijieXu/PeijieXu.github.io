@@ -18,8 +18,9 @@ _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 <center class="half">
     <img src="pic/1_2.png" height="200"/><img src="pic/1_3.png" height="200"/>
 </center>
-
+_The structure of the wind farm_
 ![1](/pic/1_1.png)
+
   
 <center class="half">
     <img src="pic/1_4.png" height="200"/><img src="pic/1_5.png" height="200"/>
