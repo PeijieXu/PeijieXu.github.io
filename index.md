@@ -17,6 +17,10 @@ My current research focuses on robot's motion planning and grasping.
 **Quick Link:**
 * <a href="Projects_Details/1_underguaduate_thesis.html"> <font size=4> <b>My CV</b> (pdf)</font> </a>
 * <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a>
+
+**Mail:**
+* peijiexu99@gmail.com
+
   
 
 # Research Projects
