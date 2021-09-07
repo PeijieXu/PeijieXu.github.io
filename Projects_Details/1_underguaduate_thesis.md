@@ -16,18 +16,18 @@ _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 *	Decreased AVD by 11.48 % after adding the forward difference of active power into observation; decreased AVD to 5.4×10<sup>-4</sup> p.u. and 3.6×10<sup>-4</sup> p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33%  
   
 <center class="half">
-    <img src="pic/1_2.png" /><img src="pic/1_3.png"/> 
+    <img src="pic/1_2.png" height="500"/><img src="pic/1_3.png" height="500"/> 
 </center>
 
 _The structure of the wind farm_
   
 <center class="half">
-    <img src="pic/1_1.png" height="400"/>
+    <img src="pic/1_1.png" height="500"/>
 </center>
 _The multi-agent DDPG-based approach_
   
 <center class="half">
-    <img src="pic/1_4.png" /><img src="pic/1_5.png" />
+    <img src="pic/1_4.png" height="500"/><img src="pic/1_5.png" height="500"/>
 </center>
 _Result_
   
