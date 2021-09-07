@@ -3,6 +3,8 @@ theme: jekyll-theme-cayman
 title: Peijie Xu
 description: Project Detail
 ---
+[Home](https://peijiexu.github.io/) / [Projects](Projects_Details/Projects_index.html) / Multi-Agent DRL
+  
 ## Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control
 _Undergraduate Thesis Project_   
 _Supervisor: Prof. Hui Li_  
