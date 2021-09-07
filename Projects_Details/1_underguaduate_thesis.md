@@ -29,13 +29,13 @@ _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 
   
 <center class="half">
-    <img src="pic/1_4.png" height="500"/><img src="pic/1_5.png"/>
+    <img src="pic/1_4.png" height="500"/><img src="pic/1_5.png" height="400"/>
 </center>
 <p align="center"><i>Result</i></p>
   
 
 <center class="half">
-    <img src="pic/1_6.png" height="500"/>
+    <img src="pic/1_6.png" height="350"/>
 </center>
 <p align="center"><i>Comparation of proposed multi-agent approch and normal DDPG</i></p>
 
