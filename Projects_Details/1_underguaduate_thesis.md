@@ -19,23 +19,20 @@ _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 <td><img src="pic/1_2.png" height="500"  border=0 /></td>
 <td><img src="pic/1_3.png" height="500"  border=0 /></td>
 </tr></table> 
-<p align="center"><i>The structure of the wind farm</i></p>
-
+<p align="center"><i>The structure of the wind farm</i></p><p></p>
 
 <center class="half">
     <img src="pic/1_1.png" height="500"/>
 </center>
-<p align="center"><i>The multi-agent DDPG-based approach</i></p>
-
+<p align="center"><i>The multi-agent DDPG-based approach</i></p><p></p>
   
 <center class="half">
     <img src="pic/1_4.png" height="500"/><img src="pic/1_5.png" height="400"/>
 </center>
-<p align="center"><i>Result</i></p>
-  
+<p align="center"><i>Result</i></p><p></p>
 
 <center class="half">
-    <img src="pic/1_6.png" height="350"/>
+    <img src="pic/1_6.png" height="250"/>
 </center>
 <p align="center"><i>Comparation of proposed multi-agent approch and normal DDPG</i></p>
 
