@@ -12,14 +12,14 @@ var _hmt = _hmt || [];
 
 I received a bachelor degree in Electrical Engineering from Chongqing University (CQU). I currently work in the Institute of Smart Engineering, CQU.
   
-My current research focuses on robot's motion planning and grasping. 
+My current research focuses on robot's motion planning. 
 
 **Quick Link:**
-* <a href="Projects_Details/1_underguaduate_thesis.html"> <font size=4> <b>My CV</b> (pdf)</font> </a>
+* <a href="CV_ECE_Xu,Peijei.pdf"> <font size=4> <b>My CV</b> (pdf)</font> </a>
 * <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a>
 
 **Mail:**
-* peijiexu99@gmail.com
+* <a href="peijiexu99@gmail.com"> <font size=4> <b>peijiexu99@gmail.com</b></font> </a>
 
   
 
