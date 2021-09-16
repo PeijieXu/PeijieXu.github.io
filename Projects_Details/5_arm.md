@@ -16,7 +16,7 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 
 
 <center class="half">
-    <video width="640" height="480" controls="controls">
+    <video width="640" height="420" controls="controls">
   <source src="pic/5_arm.mp4" type="video/mp4" />
 </video>
 </center>

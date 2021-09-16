@@ -17,7 +17,10 @@ _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
    
 *	Decreased AVD by 11.48 % after adding the forward difference of active power into observation; decreased AVD to 5.4×10<sup>-4</sup> p.u. and 3.6×10<sup>-4</sup> p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33 %  
 
-<a href="doc/Brief Intro to Undergraduate Thesis.pdf" target="Peijie Xu's CV" ><font size=4> <b>A Brief Introduction to My Thesis</b> (pdf)</font></a>
+* <a href="doc/Brief Intro to Undergraduate Thesis.pdf" target="Peijie Xu" ><font size=4> <b>A Brief Introduction to My Thesis</b> (pdf)</font></a>
+* <a href="https://aistudio.baidu.com/aistudio/projectdetail/1811882" target="Peijie Xu" ><font size=4> <b>DDPG source code</b> (pdf)</font></a>
+* <a href="https://aistudio.baidu.com/aistudio/projectdetail/1907893" target="Peijie Xu" ><font size=4> <b>MADDPG source code</b> (pdf)</font></a>
+
   
 <table><tr>
 <td><img src="pic/1_2.png" height="500"  border=0 /></td>
