@@ -22,5 +22,5 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 </center>
 
 <center class="half">
-    <img src="pic/5_1.jpg" height="500"/>
+    <img src="pic/5_1.png" height="500"/>
 </center>
