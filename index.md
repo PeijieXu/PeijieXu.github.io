@@ -30,11 +30,13 @@ My current research focuses on robot's motion planning.
 <font size=4> <b>Humanoid Robot V-SLAM and Control System Programming</b> </font>  
 
 * Control the humanoid robot Roban to finish a sequence of tasks 
+* <a href="Projects_Details/4_Roban.html" target="_blank_" >Detail...</a>
 
 <font size=4> <b>Robot Arm Control System Programming and Transplantation</b> </font>  
 
 * Built a C++ library to realize control of an old Denso robot arm
 * Transplanted the library to ROS, used MoveIt!-based motion planning method to achieve real-time robot arm control
+* <a href="Projects_Details/5_arm.html" target="_blank_" >Detail...</a>
 
 <font size=4> <b>Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control</b> </font>  
 

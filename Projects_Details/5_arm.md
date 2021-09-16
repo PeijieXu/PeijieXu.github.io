@@ -14,6 +14,9 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 * Transplanted the library to ROS, used MoveIt!-based motion planning method to achieve real-time robot arm control; the project includes URDF model building, rviz visualization, inter-node communication, etc.
 
 
-<video width="320" height="240" controls="controls">
+
+<center class="half">
+    <video width="640" height="480" controls="controls">
   <source src="pic/5_arm.mp4" type="video/mp4" />
 </video>
+</center>
