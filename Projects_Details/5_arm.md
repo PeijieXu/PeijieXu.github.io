@@ -20,3 +20,5 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
   <source src="pic/5_arm.mp4" type="video/mp4" />
 </video>
 </center>
+
+![1](pic/5_1.png)

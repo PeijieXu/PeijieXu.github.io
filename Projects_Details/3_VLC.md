@@ -14,7 +14,7 @@ _Supervisor: Prof.Quanming, Luo_
   
 * In this project, we designed a VLC system. The system sends information through the upper computer, and the encoded information is sent into the drive modulation circuit after passing through the USB to TTL module, so that the LED array sends information to the light receiving terminal. At the receiving terminal, the signal is transmitted back to the lower computer via TTL to USB module after processing, then the lower computer displays the communication content after decoding.
   
-* The power supply of the VLC system contains 2 options - constant voltage source and constant current source. The LED array is changeable and works as a scattering light source, when the system relies on the constant voltage source works at a baud rate of 256kbps, the communication distance reaches as far as 0.4 m; as the system relies on the constant current source works at a baud rate of 1200 bps, the communication distance reaches as far as 0.1m.
+* The power supply of the VLC system contains 2 options - constant voltage source and constant current source. The LED array is changeable and works as a scattering light source, when the system relies on the constant voltage source works at a baud rate of 256 kbps, the communication distance reaches as far as 0.4 m; as the system relies on the constant current source works at a baud rate of 1200 bps, the communication distance reaches as far as 0.1 m.
 
 <center class="half">
     <img src="pic/3_4.jpg" />
@@ -25,7 +25,7 @@ _Supervisor: Prof.Quanming, Luo_
 <td><img src="pic/3_2.jpg" height="500"  border=0 /></td>
 <td><img src="pic/3_1.png" height="500"  border=0 /></td>
 </tr></table> 
-<p align="center"><i>The Sending Terminal (TX) and its Circuit(Constant Voltage Source)</i></p><p></p>
+<p align="center"><i>The Sending Terminal (TX) and its Circuit (Constant Voltage Source)</i></p><p></p>
 
 <center class="half">
     <img src="pic/3_3.jpg" height="500"/>
