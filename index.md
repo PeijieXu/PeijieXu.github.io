@@ -15,14 +15,13 @@ I received a bachelor degree in Electrical Engineering from Chongqing University
 My current research focuses on robot's motion planning. 
 
 **Quick Link:**
-* <a href="CV_ECE_Xu,Peijei.pdf"> <font size=4> <b>My CV</b> (pdf)</font> </a>
+* <a href="CV_ECE_Xu,Peijei.pdf" target="_blank" ><font size=4> <b>My CV</b> (pdf)</font></a>
 * <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a>
 
-**Mail:**
-* <a href="peijiexu99@gmail.com"> <font size=4> <b>peijiexu99@gmail.com</b></font> </a>
-
+**Mail:** 
+* <font size=4> <b>peijiexu99@gmail.com</b></font> 
   
-
+  
 # Research Projects
 
 <font size=4> <b>Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control</b> </font>  
@@ -34,10 +33,12 @@ My current research focuses on robot's motion planning.
 <font size=4> <b>Wind Farm Multi-Agent Consensus Control</b> </font>  
 
 * Investigated control methods for a distributed wind farm system; designed a distributed consensus algorithm to regulate output power of wind turbines
+* [Detail ...](Projects_Details/2_consensus_control.html)
   
 <font size=4> <b>Electrical Compensation Technology for Visible Light Communication (VLC)</b></font>  
 
 * Investigated into the compensation technology for the electrical index deterioration of VLC
+* [Detail ...](Projects_Details/3_VLC.html)
   
 # Publication
 
