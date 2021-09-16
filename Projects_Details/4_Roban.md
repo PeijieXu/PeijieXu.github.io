@@ -24,7 +24,9 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 </video>
 </center>
 
-![1](pic/4_4.png)
+<center class="half">
+    <img src="pic/4_4.png" height="500"/>
+</center>
 <p align="center"><i>The Robot</i></p>
 
 ![1](pic/4_1.png)
