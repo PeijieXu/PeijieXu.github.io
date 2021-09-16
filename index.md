@@ -27,7 +27,7 @@ My current research focuses on robot's motion planning.
   
 # Research Projects
 
-<font size=4> <b>Humanoid Robot V-SLAM and Control System Programming</b> </font>  
+<font size=4> <b>Humanoid Robot Visual SLAM and Control System Programming</b> </font>  
 
 * Control the humanoid robot Roban to finish a sequence of tasks 
 * <a href="Projects_Details/4_Roban.html" target="_blank_" >Detail...</a>
