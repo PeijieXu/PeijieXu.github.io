@@ -16,6 +16,11 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 
 * Built the robot’s model in CoppeliaSim/V-REP to simulated the control algorithm; controlled the gait using a dynamic model which derived from Lagrangian dynamics when it stands on one leg
 
+
+<video width="320" height="240" controls="controls">
+  <source src="pic/4_walk.mp4" type="video/mp4" />
+</video>
+
 ![1](pic/4_1.png)
 
 ![1](pic/4_2.png)
