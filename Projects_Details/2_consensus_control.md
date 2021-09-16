@@ -3,9 +3,10 @@ theme: jekyll-theme-cayman
 title: Peijie Xu
 description: Project Detail
 ---
-[Home](../index.md) / [Projects](Projects_index.html) / Multi-Agent Consensus Control 
+[Home](../index.md) / [Project List](Projects_index.html) / Multi-Agent Consensus Control 
 
 ## Wind Farm Multi-Agent Consensus Control
+
 _Research Assistant_   
 _Supervisor: Prof. Minyou Chen_  
 

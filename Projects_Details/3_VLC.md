@@ -3,9 +3,10 @@ theme: jekyll-theme-cayman
 title: Peijie Xu
 description: Project Detail
 ---
-[Home](../index.md) / [Projects](Projects_index.html) / VLC
+[Home](../index.md) / [Project List](Projects_index.html) / VLC
   
 ## Electrical Compensation Technology for Visible Light Communication (VLC)
+
 _Leader_   
 _Supervisor: Prof.Quanming, Luo_  
   
