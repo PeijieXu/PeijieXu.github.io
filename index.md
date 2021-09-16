@@ -28,17 +28,14 @@ My current research focuses on robot's motion planning.
 
 * Applied Multi-Agent DRL to minimize the Average Voltage Deviation of the offshore wind farm
 * The work was awarded the outstanding undergraduate thesis of CQU (top 1.5 % in the university)
-* [Detail ...](Projects_Details/1_underguaduate_thesis.md)
   
 <font size=4> <b>Wind Farm Multi-Agent Consensus Control</b> </font>  
 
 * Investigated control methods for a distributed wind farm system; designed a distributed consensus algorithm to regulate output power of wind turbines
-* [Detail ...](Projects_Details/2_consensus_control.html)
   
 <font size=4> <b>Electrical Compensation Technology for Visible Light Communication (VLC)</b></font>  
 
 * Investigated into the compensation technology for the electrical index deterioration of VLC
-* [Detail ...](Projects_Details/3_VLC.html)
   
 # Publication
 
