@@ -23,6 +23,10 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
   <source src="pic/4_walk.mp4" type="video/mp4" />
 </video>
 </center>
+
+![1](pic/4_4.png)
+<p align="center"><i>The Robot</i></p>
+
 ![1](pic/4_1.png)
 
 ![1](pic/4_2.png)

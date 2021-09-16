@@ -15,7 +15,7 @@ _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 
 *	Built reactive power-voltage optimization model and formulated it as a Markov Decision Process; established the agents’ actor & critic’s Deep Neural Network and the interactive environment of RL; trained the agents with adapted Deep Deterministic Policy Gradient (DDPG) and Multi-Agent DDPG
    
-*	Decreased AVD by 11.48 % after adding the forward difference of active power into observation; decreased AVD to 5.4×10<sup>-4</sup> p.u. and 3.6×10<sup>-4</sup> p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33%  
+*	Decreased AVD by 11.48 % after adding the forward difference of active power into observation; decreased AVD to 5.4×10<sup>-4</sup> p.u. and 3.6×10<sup>-4</sup> p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33 %  
 
 <a href="doc/Brief Intro to Undergraduate Thesis.pdf" target="Peijie Xu's CV" ><font size=4> <b>A Brief Introduction to My Thesis</b> (pdf)</font></a>
   
