@@ -10,11 +10,13 @@ var _hmt = _hmt || [];
 
 # Hi There ~
 
-I obtained bachelor degree in Electrical Engineering from Chongqing University (CQU). I am currently a research assistant in the Institute of Smart Engineering, CQU.
+I obtained B.Eng in Electrical Engineering from Chongqing University (CQU). I currently work as a research assistant in the Institute of Smart Engineering, CQU.
 
 My current research focuses on humanoid robot's motion planning, Visual SLAM, and Deep Reinforcement Learning.
 
-**Quick Link:** <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a> <font size=4> | </font>   <a href="CV_ECE_Xu,Peijei.pdf" target="Peijie Xu's CV" ><font size=4> <b>CV</b> (pdf)</font></a> 
+**Quick Link:** 
+* <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a> 
+* <a href="CV_ECE_Xu,Peijei.pdf" target="Peijie Xu's CV" ><font size=4> <b>CV</b> (pdf)</font></a> 
 
 **Mail:**   <font size=4> <b>peijiexu99@gmail.com</b></font> 
 
