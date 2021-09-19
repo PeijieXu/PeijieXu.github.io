@@ -14,9 +14,8 @@ I obtained B.Eng in Electrical Engineering from Chongqing University (CQU). I cu
 
 My current research focuses on humanoid robot's motion planning, Visual SLAM, and Deep Reinforcement Learning.
 
-**Quick Link:** 
-* <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a> 
-* <a href="CV_ECE_Xu,Peijei.pdf" target="Peijie Xu's CV" ><font size=4> <b>CV</b> (pdf)</font></a> 
+**Quick Links:** 
+<a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a> | <a href="CV_ECE_Xu,Peijei.pdf" target="Peijie Xu's CV" ><font size=4> <b>CV</b> (pdf)</font></a> 
 
 **Mail:**   <font size=4>peijiexu99@gmail.com</font> 
 
