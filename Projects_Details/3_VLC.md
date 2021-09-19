@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 title: Peijie Xu
 description: Project Detail
 ---
-[Home](../index.md) / [Project List](Projects_index.html) / VLC
+[Home](../index.html) / [Project List](Projects_index.html) / VLC
   
 ## Electrical Compensation Technology for Visible Light Communication (VLC)
 

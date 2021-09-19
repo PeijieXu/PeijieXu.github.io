@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 title: Peijie Xu
 description: Project Detail
 ---
-[Home](../index.md) / [Project List](Projects_index.html) / Humanoid Robot
+[Home](../index.html) / [Project List](Projects_index.html) / Humanoid Robot
 
 ## Humanoid Robot Visual SLAM and Control System Programming 
 

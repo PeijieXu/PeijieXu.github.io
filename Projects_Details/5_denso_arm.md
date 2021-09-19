@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 title: Peijie Xu
 description: Project Detail
 ---
-[Home](../index.md) / [Project List](Projects_index.html) / Robot Arm Programming
+[Home](../index.html) / [Project List](Projects_index.html) / Robot Arm Programming
 
 ## Robot Arm Control System Programming and Transplantation
 
