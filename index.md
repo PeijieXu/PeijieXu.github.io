@@ -18,7 +18,7 @@ My current research focuses on humanoid robot's motion planning, Visual SLAM, an
 * <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a> 
 * <a href="CV_ECE_Xu,Peijei.pdf" target="Peijie Xu's CV" ><font size=4> <b>CV</b> (pdf)</font></a> 
 
-**Mail:**   <font size=4> <b>peijiexu99@gmail.com</b></font> 
+**Mail:**   <font size=4>peijiexu99@gmail.com</font> 
 
 
 
