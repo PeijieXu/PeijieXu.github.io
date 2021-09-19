@@ -10,55 +10,40 @@ var _hmt = _hmt || [];
 
 # Hi There ~
 
-I received a bachelor degree in Electrical Engineering from Chongqing University (CQU). I currently work in the Institute of Smart Engineering, CQU.
-  
-My current research focuses on robot's motion planning. 
+I obtained bachelor degree in Electrical Engineering from Chongqing University (CQU). I am currently a research assistant in the Institute of Smart Engineering, CQU.
 
-**Quick Link:**
-* <a href="CV_ECE_Xu,Peijei.pdf" target="Peijie Xu's CV" ><font size=4> <b>My CV</b> (pdf)</font></a>
-* <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Project List</b></font> </a>
+My current research focuses on humanoid robot's motion planning, Visual SLAM, and Deep Reinforcement Learning.
 
-**Mail:** 
-* <font size=4> <b>peijiexu99@gmail.com</b></font> 
-  
+**Quick Link:**  <a href="Projects_Details/Projects_index.html"> <font size=4> <b>Projects</b></font> </a> | <a href="CV_ECE_Xu,Peijei.pdf" target="Peijie Xu's CV" ><font size=4> <b>CV</b> (pdf)</font></a> 
+
+**Mail:**   <font size=4> <b>peijiexu99@gmail.com</b></font> 
 
 
 
-  
-# Research Projects
-
-<font size=4> <b>Humanoid Robot Visual SLAM and Control System Programming</b> </font>  
-
-* Control the humanoid robot Roban to finish a sequence of tasks 
-* <a href="Projects_Details/4_Roban.html" target="_blank_" >Detail...</a>
-
-<font size=4> <b>Robot Arm Control System Programming and Transplantation</b> </font>  
-
-* Built a C++ library to realize control of an old Denso robot arm
-* Transplanted the library to ROS, used MoveIt!-based motion planning method to achieve real-time robot arm control
-* <a href="Projects_Details/5_arm.html" target="_blank_" >Detail...</a>
+# Recent Projects
 
 <font size=4> <b>Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control</b> </font>  
 
 * Applied Multi-Agent DRL to minimize the Average Voltage Deviation of the offshore wind farm
 * The work was awarded the outstanding undergraduate thesis of CQU (top 1.5 % in the university)
 * <a href="Projects_Details/1_underguaduate_thesis.html" target="_blank_" >Detail...</a>
-  
-<font size=4> <b>Wind Farm Multi-Agent Consensus Control</b> </font>  
 
-* Investigated control methods for a distributed wind farm system; designed a distributed consensus algorithm to regulate output power of wind turbines
-* <a href="Projects_Details/2_consensus_control.html" target="_blank_" >Detail...</a>
-  
-<font size=4> <b>Electrical Compensation Technology for Visible Light Communication (VLC)</b></font>  
+<font size=4> <b>Humanoid Robot Visual SLAM and Control System Programming</b> </font>  
 
-* Investigated into the compensation technology for the electrical index deterioration of VLC
-* <a href="Projects_Details/3_VLC.html" target="_blank_" >Detail...</a>
-  
+* Control a humanoid robot to finish a sequence of challenging tasks (on going project)
+* <a href="Projects_Details/4_Roban.html" target="_blank_" >Detail...</a>
+
+<font size=4> <b>Robot Arm Control System Programming and Transplantation</b> </font>  
+
+* Built a C++ library to realize control of an old Denso robot arm,  then transplanted the library to ROS
+* <a href="Projects_Details/5_arm.html" target="_blank_" >Detail...</a>
+
+
 
 
 # Publication
 
-<font size=4> <b>Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method</b></font>  
+<font size=4> <b>Multi Objective Optimization of Q-V Control for Offshore Wind Farm Based on Sensitivity Analysis Method</b> (accepted)</font>  
 &emsp;Hongtao Tan, Hui Li, **Peijie Xu**, Renkuan Liu, Xiao Wang, Zhiting Zhou, Jie Zheng  
 &emsp;International Conference on Power Engineering 2021
 

@@ -4,7 +4,7 @@ title: Peijie Xu
 description: Project Detail
 ---
 [Home](../index.md) / [Project List](Projects_index.html) / Humanoid Robot
-  
+
 ## Humanoid Robot Visual SLAM and Control System Programming 
 
 _Research Assistant_   
@@ -19,10 +19,11 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 
 
 <center class="half">
-<video width="640" height="480" controls="controls">
+<video width="320" height="480" controls="controls">
   <source src="pic/4_walk.mp4" type="video/mp4" />
 </video>
 </center>
+
 
 <center class="half">
     <img src="pic/4_4.png" height="500"/>
@@ -34,4 +35,6 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 ![1](pic/4_2.png)
 
 ![1](pic/4_3.png)
-<p align="center"><i>Simulation of Robot (in V-REP)</i></p>
+
+<p align="center"><i>Robot Simulation (in V-REP)</i></p>
+

@@ -4,7 +4,7 @@ title: Peijie Xu
 description: Project Detail
 ---
 [Home](../index.md) / [Project List](Projects_index.html) / Humanoid Robot
-  
+
 ## Robot Arm Control System Programming and Transplantation
 
 _Research Assistant_   
@@ -16,11 +16,10 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 
 
 <center class="half">
-    <video width="640" height="420" controls="controls">
+    <video width="480" height="320" controls="controls">
   <source src="pic/5_arm.mp4" type="video/mp4" />
 </video>
 </center>
-
 <center class="half">
-    <img src="pic/5_1.png" height="500"/>
+    <img src="pic/5_1.png" width="480"/>
 </center>
