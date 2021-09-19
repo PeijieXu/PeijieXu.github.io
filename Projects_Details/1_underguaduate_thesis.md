@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 title: Peijie Xu
 description: Project Detail
 ---
