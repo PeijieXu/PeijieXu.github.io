@@ -1,5 +1,5 @@
 ---
-theme: hexo-theme-ayer
+theme: jekyll-theme-cayman
 title: Peijie Xu
 description: Project Detail
 ---
