@@ -680,7 +680,7 @@ a:hover {
 .main-content table th,
 .main-content table td {
   padding: 0.5rem 1rem;
-  border: 10px solid #e9ebec;
+  border: 0px solid #e9ebec;
 }
 .main-content dl {
   padding: 0;
