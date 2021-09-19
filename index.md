@@ -37,8 +37,8 @@ My current research focuses on humanoid robot's motion planning, Visual SLAM, an
 
 <font size=4> <b>Robot Arm Control System Programming and Transplantation</b> </font>  
 
-* Built a C++ library to realize control of an old Denso robot arm,  then transplanted the library to ROS
-* <a href="Projects_Details/5_arm.html" target="_blank_" >Detail...</a>
+* Built a C++ library to realize programmable control of an old Denso robot arm,  then transplanted the library to ROS
+* <a href="Projects_Details/5_denso_arm.html" target="_blank_" >Detail...</a>
 
 
 
