@@ -480,7 +480,7 @@ a:hover {
   background-size: cover;
 }
 .page-header-home {
-	color: #fff;
+	color: #1f865b;
 	text-align:center;
 	background-color: #3d7ffb;
 	background-image: url('../pic/1.gif');
@@ -530,7 +530,7 @@ a:hover {
 }
 @media screen and (max-width: 42em) {
   .project-name {
-    font-size: 2.5rem;
+    font-size: 2.6rem;
   }
 }
 .project-tagline {
@@ -540,17 +540,17 @@ a:hover {
 }
 @media screen and (min-width: 64em) {
   .project-tagline {
-    font-size: 1.75rem;
+    font-size: 1.6rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-tagline {
-    font-size: 1.65rem;
+    font-size: 1.25rem;
   }
 }
 @media screen and (max-width: 42em) {
   .project-tagline {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
   }
 }
 .main-content {
