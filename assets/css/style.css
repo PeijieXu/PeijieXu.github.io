@@ -480,7 +480,7 @@ a:hover {
   background-size: cover;
 }
 .page-header-home {
-	color: #1f865b;
+	color: #269768;
 	text-align:center;
 	background-color: #3d7ffb;
 	background-image: url('../pic/1.gif');
@@ -535,7 +535,7 @@ a:hover {
 }
 .project-tagline {
   margin-bottom: 2rem;
-  font-weight: normal;
+  font-weight: bold;
   opacity: 0.7;
 }
 @media screen and (min-width: 64em) {
