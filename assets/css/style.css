@@ -478,7 +478,6 @@ a:hover {
   background-color: #3d7ffb;
   background-image: url('../pic/3.jpg');/* linear-gradient(190deg, #b04080, #1570de) */
   background-size: cover;
-  min-height: 300px;
 }
 .page-header-home {
 	color: #fff;
@@ -486,22 +485,25 @@ a:hover {
 	background-color: #3d7ffb;
 	background-image: url('../pic/1.gif');/* position: absolute;*/
 	background-size:cover;
-	min-height: 400px;
 }
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem;
+    padding: 7rem 6rem;
+	min-height: 400px;
   }
   .page-header-home {
     padding: 7rem 6rem;
+	min-height: 400px;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem;
+    padding: 4rem 4rem;
+	min-height: 300px;
   }
   .page-header-home {
     padding: 5rem 4rem;
+	min-height: 300px;
   }
 }
 @media screen and (max-width: 42em) {
