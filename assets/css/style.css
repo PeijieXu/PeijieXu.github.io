@@ -474,7 +474,7 @@ a:hover {
 .page-header {
   color: #fff;
   text-align: center;
-  text-size-adjust: 10;
+  font-size: large;
   background-color: #3d7ffb;
   background-image: url('../pic/1.gif');/* linear-gradient(190deg, #b04080, #1570de) */
   background-size: cover;
