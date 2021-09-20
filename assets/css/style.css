@@ -477,7 +477,7 @@ a:hover {
   background-color: #3d7ffb;
   background-image: url('../pic/1.gif');/* linear-gradient(190deg, #b04080, #1570de) */
   background-size: cover;
-  height: fit-content;
+  min-height: 400px;;
   /*background-repeat: no-repeat;*/
 }
 @media screen and (min-width: 64em) {
