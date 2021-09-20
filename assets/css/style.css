@@ -474,16 +474,15 @@ a:hover {
 .page-header {
   color: #fff;
   text-align: center;
-  font-size: large;
+  font-size: xx-large;
   background-color: #3d7ffb;
   background-image: url('../pic/3.jpg');/* linear-gradient(190deg, #b04080, #1570de) */
   background-size: cover;
-  min-height: 300px;
+  min-height: 350px;
 }
 .page-header-home {
 	color: #fff;
 	text-align:center;
-	font-size: 100px;
 	background-color: #3d7ffb;
 	background-image: url('../pic/1.gif');/* linear-gradient(190deg, #b04080, #1570de) */
 	background-size: cover;
