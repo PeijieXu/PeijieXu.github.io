@@ -478,14 +478,14 @@ a:hover {
   background-color: #3d7ffb;
   background-image: url('../pic/3.jpg');/* linear-gradient(190deg, #b04080, #1570de) */
   background-size: cover;
-  min-height: 350px;
+  min-height: 300px;
 }
 .page-header-home {
 	color: #fff;
 	text-align:center;
 	background-color: #3d7ffb;
 	background-image: url('../pic/1.gif');/* linear-gradient(190deg, #b04080, #1570de) */
-	background-size: cover;
+	background-size:contain;
 	min-height: 400px;
 }
 @media screen and (min-width: 64em) {
