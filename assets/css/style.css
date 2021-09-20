@@ -481,6 +481,15 @@ a:hover {
   min-height: 400px;;
   /*background-repeat: no-repeat;*/
 }
+.page-header-home {
+	color: #fff;
+	text-align: center;
+	font-size: 50px;
+	background-color: #3d7ffb;
+	background-image: url('../pic/1.gif');/* linear-gradient(190deg, #b04080, #1570de) */
+	background-size: cover;
+	min-height: 400px;;
+}
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 5rem 6rem;
