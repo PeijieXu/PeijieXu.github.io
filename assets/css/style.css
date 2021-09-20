@@ -483,9 +483,11 @@ a:hover {
 .page-header-home {
 	color: #fff;
 	text-align:center;
+	
+	margin-top:200px;
 	background-color: #3d7ffb;
-	background-image: url('../pic/1.gif');/* linear-gradient(190deg, #b04080, #1570de) */
-	background-size:contain;
+	background-image: url('../pic/1.gif');/* position: absolute;*/
+	background-size:cover;
 	min-height: 400px;
 }
 @media screen and (min-width: 64em) {
