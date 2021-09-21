@@ -50,7 +50,7 @@ method respectively, which means the proposed multi-agent-based method improves 
 <center class="half">
 	<img src="pic/1_4.png" style="max-height: 600px;" /><img src="pic/1_5.png" style="max-height: 400px;" />
 </center>
-<p style="margin-top: 0em; margin-bottom: 1em;text-align: center;"><i>Result</i></p>
+<p style="margin-top: 0em; margin-bottom: 1em;text-align: center;"><i>result</i></p>
 
 
 <center class="half">
