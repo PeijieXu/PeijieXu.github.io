@@ -22,12 +22,9 @@ Deterministic Policy Gradient (DDPG) and Multi-Agent DDPG
 5.4×10<sup>-4</sup> p.u. and 3.6×10<sup>-4</sup> p.u. using policy trained by DDPG-based and Multi-Agent DDPG-based
 method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33 %
 
-* <a href="doc/Brief Intro to Undergraduate Thesis.pdf" target="Peijie Xu">
-	<font size=4> <b>A Brief Introduction to My Thesis</b> (pdf)</font></a>
-* <a href="https://aistudio.baidu.com/aistudio/projectdetail/1811882?lang=en" target="Peijie Xu">
-	<font size=4> <b>DDPG source code</b> </font></a>
-* <a href="https://aistudio.baidu.com/aistudio/projectdetail/1907893?lang=en" target="Peijie Xu">
-	<font size=4> <b>MADDPG source code</b></font></a>
+* <a href="doc/Brief Intro to Undergraduate Thesis.pdf" target="Peijie Xu"><font size=4> <b>A Brief Introduction to My Thesis</b> (pdf)</font></a>
+* <a href="https://aistudio.baidu.com/aistudio/projectdetail/1811882?lang=en" target="Peijie Xu"><font size=4> <b>DDPG source code</b> </font></a>
+* <a href="https://aistudio.baidu.com/aistudio/projectdetail/1907893?lang=en" target="Peijie Xu"><font size=4> <b>MADDPG source code</b></font></a>
 
 <table>
 	<tr>
