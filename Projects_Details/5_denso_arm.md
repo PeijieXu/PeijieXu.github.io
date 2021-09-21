@@ -19,8 +19,8 @@ project includes URDF model building, rviz visualization, inter-node communicati
 
 <center class="half">
 
-	<video controls="controls">
-		<source src="pic/5_arm.mp4" type="video/mp4" style="max-width: 480px;" />
+	<video controls="controls" style="max-width: 500px;">
+		<source src="pic/5_arm.mp4" type="video/mp4"  />
 	</video>
 
 </center>
