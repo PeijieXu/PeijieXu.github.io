@@ -38,25 +38,25 @@ method respectively, which means the proposed multi-agent-based method improves 
 		<td><img src="pic/1_3.png" style="max-height: 500px;" border=0 /></td>
 	</tr>
 </table>
-<p align="center" style="margin-top: 0em; margin-bottom: 1em;"><i>The structure of the wind farm</i></p>
+<p align="center" ><i>The structure of the wind farm</i></p>
 
 
 <center class="half">
 	<img src="pic/1_1.png" style="max-height: 500px;" />
 </center>
-<p align="center" style="margin-top: 0em; margin-bottom: 1em;"><i>The multi-agent DDPG-based approach</i></p>
+<p align="center" ><i>The multi-agent DDPG-based approach</i></p>
 
 
 <center class="half">
 	<img src="pic/1_4.png" style="max-height: 600px;" /><img src="pic/1_5.png" style="max-height: 400px;" />
 </center>
-<p style="margin-top: 0em; margin-bottom: 1em;text-align: center;"><i>Result</i></p>
+<p align="center"><i>Result</i></p>
 
 
 <center class="half">
 	<img src="pic/1_6.png" style="max-height: 250px;" />
 </center>
-<p align="center" style="margin-top: 0em; margin-bottom: 1em;"><i>Comparation of proposed multi-agent approch and normal DDPG</i></p>
+<p align="center" ><i>Comparation of proposed multi-agent approch and normal DDPG</i></p>
 
 
 <p style="margin-top: 4em; text-align: center;">

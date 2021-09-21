@@ -19,23 +19,23 @@ _Supervisor: Prof.Quanming, Luo_
 <center class="half">
     <img src="pic/3_4.jpg" />
 </center>
-<p align="center" style="margin-top: 0em; margin-bottom: 1em;"><i>The VLC System</i></p>
+<p align="center" ><i>The VLC System</i></p>
 
 <table><tr>
 <td><img src="pic/3_2.jpg" style="max-height: 500px;"  border=0 /></td>
 <td><img src="pic/3_1.png" style="max-height: 500px;"  border=0 /></td>
 </tr></table> 
-<p align="center" style="margin-top: 0em; margin-bottom: 1em;"><i>The Sending Terminal (TX) and its Circuit (Constant Voltage Source)</i></p>
+<p align="center" ><i>The Sending Terminal (TX) and its Circuit (Constant Voltage Source)</i></p>
 
 <center class="half">
     <img src="pic/3_3.jpg" style="max-height: 500px;"/>
 </center>
-<p align="center" style="margin-top: 0em; margin-bottom: 1em;"><i>The Receiving Terminal (RX) </i></p>
+<p align="center" ><i>The Receiving Terminal (RX) </i></p>
 
 <center class="half">
     <img src="pic/3_5.jpg" style="max-height: 500px;"/>
 </center>
-<p align="center" style="margin-top: 0em; margin-bottom: 1em;"><i>The Wave of two terminal (white: TX, yellow: RX)</i></p>
+<p align="center" ><i>The Wave of two terminal (white: TX, yellow: RX)</i></p>
 
 <p style="margin-top: 4em; text-align: center;">
 	
