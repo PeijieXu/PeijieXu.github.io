@@ -23,3 +23,17 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 <center class="half">
     <img src="pic/5_1.png" width="480"/>
 </center>
+
+<p style="margin-top: 2em; text-align: center;">
+	
+	<font size="5">
+		<a href="#content">
+			<b> Back to Top </b>
+		</a>
+	</font>
+	
+</p>
+
+<center class="half">
+	<img src="../assets/pic/cut.png" />
+</center>

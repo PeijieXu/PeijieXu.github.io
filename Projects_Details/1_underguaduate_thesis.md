@@ -54,5 +54,5 @@ _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 </p>
 
 <center class="half">
-	<img src="../assets/pic/cut.png" style="margin-top: 1em;" />
+	<img src="../assets/pic/cut.png" />
 </center>
