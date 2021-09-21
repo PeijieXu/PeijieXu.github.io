@@ -38,7 +38,7 @@ method respectively, which means the proposed multi-agent-based method improves 
 		<td><img src="pic/1_3.png" style="max-height: 500px;" border=0 /></td>
 	</tr>
 </table>
-<p align="center" ><i>The structure of the wind farm</i></p>
+<p style="margin-top: 0em; margin-bottom: 1em;" ><i>The structure of the wind farm</i></p>
 
 
 <center class="half">
