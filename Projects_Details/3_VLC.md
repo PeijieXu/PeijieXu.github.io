@@ -37,7 +37,7 @@ _Supervisor: Prof.Quanming, Luo_
 </center>
 <p align="center"><i>The Wave of two terminal (white: TX, yellow: RX)</i></p><p></p>
 
-<p style="margin-top: 2em; text-align: center;">
+<p style="margin-top: 3em; text-align: center;">
 	
 	<font size="5">
 		<a href="#content">
