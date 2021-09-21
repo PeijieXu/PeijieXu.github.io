@@ -16,12 +16,12 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 
 
 <center class="half">
-    <video width="480" height="320" controls="controls">
+    <video style="max-width: 480px;" controls="controls">
   <source src="pic/5_arm.mp4" type="video/mp4" />
 </video>
 </center>
 <center class="half">
-    <img src="pic/5_1.png" width="480"/>
+    <img src="pic/5_1.png" style="max-width: 500px;"/>
 </center>
 
 <p style="margin-top: 3em; text-align: center;">

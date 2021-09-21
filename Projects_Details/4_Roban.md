@@ -19,14 +19,14 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 
 
 <center class="half">
-<video width="320" height="480" controls="controls">
+<video style="max-width: 320px;" controls="controls">
   <source src="pic/4_walk.mp4" type="video/mp4" />
 </video>
 </center>
 
 
 <center class="half">
-    <img src="pic/4_4.png" height="500"/>
+    <img src="pic/4_4.png" style="max-height: 500px;"/>
 </center>
 <p align="center"><i>The Robot</i></p>
 

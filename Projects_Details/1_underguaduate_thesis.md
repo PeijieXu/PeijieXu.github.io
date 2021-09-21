@@ -3,9 +3,6 @@ theme: jekyll-theme-cayman
 title: Peijie Xu
 description: Project Detail
 ---
-<head>
-	<title>Project: DRL</title>
-</head>
 [Home](../index.html) / [Project List](Projects_index.html) / Multi-Agent DRL
   
 ## Deep Reinforcement Learning (DRL) - Guided Offshore Wind Farm Voltage Control
@@ -25,23 +22,23 @@ _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 * <a href="https://aistudio.baidu.com/aistudio/projectdetail/1907893?lang=en" target="Peijie Xu" ><font size=4> <b>MADDPG source code</b></font></a>
   
 <table><tr>
-<td><img src="pic/1_2.png" style="max-height: 500;"  border=0 /></td>
-<td><img src="pic/1_3.png" style="max-height: 500;"  border=0 /></td>
+<td><img src="pic/1_2.png" style="max-height: 500px;"  border=0 /></td>
+<td><img src="pic/1_3.png" style="max-height: 500px;"  border=0 /></td>
 </tr></table> 
 <p align="center"><i>The structure of the wind farm</i></p><p></p>
 
 <center class="half">
-    <img src="pic/1_1.png" style="max-height: 500;"/>
+    <img src="pic/1_1.png" style="max-height: 500px;"/>
 </center>
 <p align="center"><i>The multi-agent DDPG-based approach</i></p><p></p>
   
 <center class="half">
-    <img src="pic/1_4.png" style="max-height: 500;"/><img src="pic/1_5.png" style="max-height: 400;"/>
+    <img src="pic/1_4.png" style="max-height: 500px;"/><img src="pic/1_5.png" style="max-height: 400px;"/>
 </center>
 <p align="center"><i>Result</i></p><p></p>
 
 <center class="half">
-    <img src="pic/1_6.png" style="max-height: 250;"/>
+    <img src="pic/1_6.png" style="max-height: 250px;"/>
 </center>
 <p align="center"><i>Comparation of proposed multi-agent approch and normal DDPG</i></p>
 
