@@ -22,18 +22,18 @@ _Supervisor: Prof.Quanming, Luo_
 <p align="center"><i>The VLC System</i></p><p></p>
 
 <table><tr>
-<td><img src="pic/3_2.jpg" height="500"  border=0 /></td>
-<td><img src="pic/3_1.png" height="500"  border=0 /></td>
+<td><img src="pic/3_2.jpg" style="max-height: 500;"  border=0 /></td>
+<td><img src="pic/3_1.png" style="max-height: 500;"  border=0 /></td>
 </tr></table> 
 <p align="center"><i>The Sending Terminal (TX) and its Circuit (Constant Voltage Source)</i></p><p></p>
 
 <center class="half">
-    <img src="pic/3_3.jpg" height="500"/>
+    <img src="pic/3_3.jpg" style="max-height: 500;"/>
 </center>
 <p align="center"><i>The Receiving Terminal (RX) </i></p><p></p>
 
 <center class="half">
-    <img src="pic/3_5.jpg" height="500"/>
+    <img src="pic/3_5.jpg" style="max-height: 500;"/>
 </center>
 <p align="center"><i>The Wave of two terminal (white: TX, yellow: RX)</i></p><p></p>
 
