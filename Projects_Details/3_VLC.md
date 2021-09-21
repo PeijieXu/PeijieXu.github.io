@@ -21,10 +21,12 @@ _Supervisor: Prof.Quanming, Luo_
 </center>
 <p style="margin-top: 0em; margin-bottom: 1em; text-align: center;" ><i>The VLC System</i></p>
 
+<center class="half">
 <table><tr>
 <td><img src="pic/3_2.jpg" style="max-height: 500px;"  border=0 /></td>
 <td><img src="pic/3_1.png" style="max-height: 500px;"  border=0 /></td>
 </tr></table> 
+</center>
 <p style="margin-top: 0em; margin-bottom: 1em; text-align: center;" ><i>The Sending Terminal (TX) and its Circuit (Constant Voltage Source)</i></p>
 
 <center class="half">
