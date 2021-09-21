@@ -43,7 +43,7 @@ _Lab: [State Key Laboratory of PES](http://sklpe.cqu.edu.cn/)_
 <p align="center"><i>Comparation of proposed multi-agent approch and normal DDPG</i></p>
 
   
-<p style="margin-top: 3em; text-align: center;">
+<p style="margin-top: 4em; text-align: center;">
 	
 	<font size="5">
 		<a href="#content">

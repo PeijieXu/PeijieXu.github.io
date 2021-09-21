@@ -28,7 +28,7 @@ project includes URDF model building, rviz visualization, inter-node communicati
 	<img src="pic/5_1.png" style="max-height: 500px;" />
 </center>
 
-<p style="margin-top: 3em; text-align: center;">
+<p style="margin-top: 4em; text-align: center;">
 
 	<font size="5">
 		<a href="#content">

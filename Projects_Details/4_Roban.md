@@ -38,7 +38,7 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 
 <p align="center"><i>Robot Simulation (in V-REP)</i></p>
 
-<p style="margin-top: 3em; text-align: center;">
+<p style="margin-top: 4em; text-align: center;">
 	
 	<font size="5">
 		<a href="#content">
