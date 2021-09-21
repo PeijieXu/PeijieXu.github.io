@@ -23,14 +23,11 @@ Deterministic Policy Gradient (DDPG) and Multi-Agent DDPG
 method respectively, which means the proposed multi-agent-based method improves the control performance by 33.33 %
 
 * <a href="doc/Brief Intro to Undergraduate Thesis.pdf" target="Peijie Xu">
-	<font size=4> <b>A Brief Introduction to My Thesis</b> (pdf)</font>
-</a>
+	<font size=4> <b>A Brief Introduction to My Thesis</b> (pdf)</font></a>
 * <a href="https://aistudio.baidu.com/aistudio/projectdetail/1811882?lang=en" target="Peijie Xu">
-	<font size=4> <b>DDPG source code</b> </font>
-</a>
+	<font size=4> <b>DDPG source code</b> </font></a>
 * <a href="https://aistudio.baidu.com/aistudio/projectdetail/1907893?lang=en" target="Peijie Xu">
-	<font size=4> <b>MADDPG source code</b></font>
-</a>
+	<font size=4> <b>MADDPG source code</b></font></a>
 
 <table>
 	<tr>
@@ -44,19 +41,19 @@ method respectively, which means the proposed multi-agent-based method improves 
 <center class="half">
 	<img src="pic/1_1.png" style="max-height: 500px;" />
 </center>
-<p align="center" ><i>The multi-agent DDPG-based approach</i></p>
+<p style="margin-top: 0em; margin-bottom: 1em; text-align: center;" ><i>The multi-agent DDPG-based approach</i></p>
 
 
 <center class="half">
 	<img src="pic/1_4.png" style="max-height: 600px;" /><img src="pic/1_5.png" style="max-height: 400px;" />
 </center>
-<p align="center"><i>Result</i></p>
+<p style="margin-top: 0em; margin-bottom: 1em; text-align: center;"><i>Result</i></p>
 
 
 <center class="half">
 	<img src="pic/1_6.png" style="max-height: 250px;" />
 </center>
-<p align="center" ><i>Comparation of proposed multi-agent approch and normal DDPG</i></p>
+<p style="margin-top: 0em; margin-bottom: 1em; text-align: center;" ><i>Comparation of proposed multi-agent approch and normal DDPG</i></p>
 
 
 <p style="margin-top: 4em; text-align: center;">

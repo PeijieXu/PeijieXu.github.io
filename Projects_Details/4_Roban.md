@@ -28,7 +28,7 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 <center class="half">
     <img src="pic/4_4.png" style="max-height: 500px;"/>
 </center>
-<p align="center" ><i>The Robot</i></p>
+<p style="margin-top: 0em; margin-bottom: 1em; text-align: center;" ><i>The Robot</i></p>
 
 ![1](pic/4_1.png)
 
@@ -36,7 +36,7 @@ _Supervisor: Prof. Yongduan Song & Niu Wang_
 
 ![1](pic/4_3.png)
 
-<p align="center" ><i>Robot Simulation (in V-REP)</i></p>
+<p style="margin-top: 0em; margin-bottom: 1em; text-align: center;" ><i>Robot Simulation (in V-REP)</i></p>
 
 <p style="margin-top: 4em; text-align: center;">
 	
