@@ -3,15 +3,7 @@ theme: jekyll-theme-cayman
 title: Peijie Xu
 description: Project Detail
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GF6WJQRF44"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-GF6WJQRF44');
-</script>
 [Home](../index.html) / [Project List](Projects_index.html) / Humanoid Robot
 
 ## Humanoid Robot Visual SLAM and Control System Programming 
