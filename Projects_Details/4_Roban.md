@@ -12,6 +12,7 @@ description: Project Detail
 
   gtag('config', 'G-GF6WJQRF44');
 </script>
+<title> Peijie Xu | 4 Humanoid Robot </title>
 [Home](../index.html) / [Project List](Projects_index.html) / Humanoid Robot
 
 ## Humanoid Robot Visual SLAM and Control System Programming 
