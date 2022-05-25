@@ -7,8 +7,7 @@
 	<script>
 		window.dataLayer = window.dataLayer || [];
 
-		function gtag()
-		{
+		function gtag() {
 			dataLayer.push(arguments);
 		}
 		gtag('js', new Date());
@@ -17,8 +16,7 @@
 	</script>
 	<script>
 		var _hmt = _hmt || [];
-		(function ()
-		{
+		(function () {
 			var hm = document.createElement("script");
 			hm.src = "https://hm.baidu.com/hm.js?7b209b2fdcb7fe3b26b9d3bfdaef9479";
 			var s = document.getElementsByTagName("script")[0];
@@ -68,6 +66,12 @@
 
 	<!-- end custom head snippets -->
 
+	<style>
+		tr:hover {
+			background: #eeeeee
+		}
+	</style>
+
 </head>
 
 <body>
@@ -88,7 +92,7 @@
 
 		<h2 id="research-projects" style="margin-top: 3em;">Robotics</h2>
 		<table border="0" width="750">
-			<tr>
+			<tr onclick="window.open('/Projects_Details/4_Roban.html');">
 				<td>
 					<font size="4"> <b>Humanoid Robot Visual SLAM, Locomotion and Control System Programming</b>
 					</font>
@@ -98,7 +102,7 @@
 						</li>
 						<li>Developed a localization, mapping, and navigation system
 						</li>
-						<li><strong><a href="/Projects_Details/4_Roban.html">Detail …</a></strong></li>
+						<!-- <li><strong><a href="/Projects_Details/4_Roban.html">Detail …</a></strong></li> -->
 					</ul>
 
 				</td>
@@ -132,7 +136,8 @@
 		<table border="0" width="750">
 			<tr>
 				<td>
-					<font size="4"> <b><acronym title="Deep Reinforcement Learning">DRL</acronym>  - Based Offshore Wind Farm Voltage Control</b>
+					<font size="4"> <b><acronym title="Deep Reinforcement Learning">DRL</acronym> - Based Offshore Wind Farm
+							Voltage Control</b>
 					</font>
 					<p></p>
 					<ul>
@@ -169,7 +174,8 @@
 
 			<tr>
 				<td>
-					<font size="4"> <b>Electrical Compensation Technology for <acronym title="Visible Light Communication" >VLC</acronym></b>
+					<font size="4"> <b>Electrical Compensation Technology for <acronym
+								title="Visible Light Communication">VLC</acronym></b>
 					</font>
 					<p></p>
 
@@ -188,48 +194,64 @@
 		<h2 id="course--side-projects" style="margin-top: 3em;">Course &amp; Side Projects</h2>
 		<table border="0" width="750">
 			<tr>
-				<font size="4"> <b>Digital Oscilloscope Implementation and Real-Time Signal Processing</b></font>
-				<p></p>
-				<ul>
-					<li>Achieved an oscilloscope based on a TMS320F28335 DSP development kit and an LCD screen</li>
-					<li>Sampled voltage of signal using the ADC in the DSP; analyzed frequency components of the signal using 128
-						points FFT; stabilized the waveform in rising edge, high-level or low-level mode; implemented a Finite
-						Impulse Response (FIR)
-						filter on the digital signal using circular convolution
-					</li>
-					<li>Speeded up refresh rate of the LCD by 274 %; decreased delay time to 10% when transmitting data in the
-						bottom layer software</li>
-				</ul>
+				<td>
+					<font size="4"> <b>Digital Oscilloscope Implementation and Real-Time Signal Processing</b></font>
+					<p></p>
+					<ul>
+						<li>Achieved an oscilloscope based on a TMS320F28335 DSP development kit and an LCD screen</li>
+						<li>Sampled voltage of signal using the ADC in the DSP; analyzed frequency components of the signal using
+							128
+							points FFT; stabilized the waveform in rising edge, high-level or low-level mode; implemented a Finite
+							Impulse Response (FIR)
+							filter on the digital signal using circular convolution
+						</li>
+						<li>Speeded up refresh rate of the LCD by 274 %; decreased delay time to 10% when transmitting data in the
+							bottom layer software</li>
+					</ul>
+				</td>
+
 			</tr>
 
 
 			<tr>
-				<font size="4"> <b>Motor Vector Control System Design and Analysis</b></font>
-				<p></p>
-				<ul>
-					<li>Built an Indirect Rotor Flux Oriented control system for an induction motor (IM)</li>
-					<li>Formulated a model of IM in a stationary reference frame (αβ frame) by taking rotate speed, stator current
-						and rotor flux as state variables; designed and simulated a motor control system in SIMULINK based on above
-						model with no
-						static difference between given and output; analyzed and concluded the suitable domain of parameters of PID
-						according to the given IM</li>
-				</ul>
+				<td>
+					<font size="4"> <b>Motor Vector Control System Design and Analysis</b></font>
+					<p></p>
+					<ul>
+						<li>Built an Indirect Rotor Flux Oriented control system for an induction motor (IM)</li>
+						<li>Formulated a model of IM in a stationary reference frame (αβ frame) by taking rotate speed, stator
+							current
+							and rotor flux as state variables; designed and simulated a motor control system in SIMULINK based on
+							above
+							model with no
+							static difference between given and output; analyzed and concluded the suitable domain of parameters of
+							PID
+							according to the given IM</li>
+					</ul>
+				</td>
+
 			</tr>
 			<tr>
-				<font size="4"> <b>Brushless DC Motor Control System Design</b></font>
-				<p></p>
-				<ul>
-					<li>Achieved a brushless DC motor control system on a PCB and a DSP development kit</li>
-					<li>Designed the motor drive module and regulated motor speed with PID control</li>
-				</ul>
+				<td>
+					<font size="4"> <b>Brushless DC Motor Control System Design</b></font>
+					<p></p>
+					<ul>
+						<li>Achieved a brushless DC motor control system on a PCB and a DSP development kit</li>
+						<li>Designed the motor drive module and regulated motor speed with PID control</li>
+					</ul>
+				</td>
+
 			</tr>
 			<tr>
-				<font size="4"> <b>FPGA-Based Digital Clock Design</b></font>
-				<p></p>
-				<ul>
-					<li>Achieved a digital clock base on Xilinx Artix-7 FPGA; structured, coded and debugged the source and
-						constrain files for the FPGA development kit</li>
-				</ul>
+				<td>
+					<font size="4"> <b>FPGA-Based Digital Clock Design</b></font>
+					<p></p>
+					<ul>
+						<li>Achieved a digital clock base on Xilinx Artix-7 FPGA; structured, coded and debugged the source and
+							constrain files for the FPGA development kit</li>
+					</ul>
+				</td>
+
 			</tr>
 		</table>
 
