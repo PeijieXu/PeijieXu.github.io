@@ -857,7 +857,11 @@ a:hover {
     font-weight: bold;
 }
 
-.main-content table th,
+.main-content table th {
+    padding: 0.5rem 1rem;
+    border: 0.2px solid #e9ebec;
+}
+
 .main-content table td {
     padding: 0.5rem 1rem;
     border: 0px solid #e9ebec;
