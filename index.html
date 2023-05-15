@@ -25,9 +25,11 @@
 
 		<p>
 			I am a Master's student majoring in Computer Science at the University of Southern California (USC). I received my
-			B.Eng. in Electrical Engineering with honor from Chongqing University (CQU), China. Starting in March 2022, I
-			work as a robotics software developer in the <a href="https://sites.usc.edu/rros/" target="_blank">RROS Lab</a> at
-			the USC Center for Advanced Manufacturing (<a href="https://sites.usc.edu/cam/" target="_blank">CAM</a>) .
+			B.Eng. in Electrical Engineering with honor from Chongqing University (CQU), China. From March 2022 to Dec. 2022, I
+			worked as a robotics software developer in the <a href="https://sites.usc.edu/rros/" target="_blank">RROS Lab</a> at
+			the USC Center for Advanced Manufacturing (<a href="https://sites.usc.edu/cam/" target="_blank">CAM</a>). From Jan. 2023 
+			to May 2023, I worked as a Software Development Engineer Intern at <a href="https://www.futronicsus.com/" target="_blank">Futronics</a>. 
+			Starting from May 2023, I work as a SDE intern at <a href="https://aws.amazon.com/">AWS</a>.
 		</p>
 
 		<p>My current research focuses on whole-body motion-force control of the humanoid robot and Reinforcement Learning
@@ -75,6 +77,25 @@
 
 
 		<h1 id="recent-projects">Recent Projects</h1>
+
+		<font size="4"> <b>USC Center for Advanced Manufacturing</b> - Software Development Engineer
+		</font>
+
+		<ul>
+			<li>Collected functional requirements from lab researchers, formulated the problems, analyzed and implemented solutions
+			</li>
+			<li>Refined 2 Robot Operating System (ROS) infrastructures for controlling manipulators (KUKA iiwa & ABB) to meet the lab's needs, designed and implemented C++ interfaces for the KUKA infrastructure with detailed documentation 
+			</li>
+			<li>Developed 5 required functionalities (multi-robot collaboration with a distributed network, jerky motion issue elimination, frame management system for manipulators, software-level emergency stop service, impedance/position control mode switching service) and 2 extra features (rapid ROS Java message generation, robot state visualization/monitor)
+			</li>
+			<li>Leveraged Docker for rapid ROS Java message generation, reducing the generation time from 17 to 2 minutes
+			</li>
+			<li>Devised a robot state visualization/monitor service to show the real-time dynamics of the robot, and introduced the watchdog daemon (a multi-thread-based protection mechanism) to handle the case that the corresponding client crashes unexpectedly
+			</li>
+			<li>Improved the pipeline and algorithm for computing the velocity of the end-effector, reduced inter-process communication loads, and decreased the response time from 130 ms to less than 1 ms
+			</li>
+		</ul>
+
 
 		<font size="4"> <b>Deep Reinforcement Learning (DRL) - Based Offshore Wind Farm Voltage Control</b>
 		</font>
